@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    {
+      "item": "minecraft:large_amethyst_bud"
+    }
+  ],
+  "result": {
+    "item": "minecraft:amethyst_cluster",
+    "count": 1
+  }
+}

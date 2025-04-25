@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "c": {
+      "item": "minecraft:skeleton_skull"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_skull",
+    "count": 1
+  }
+}

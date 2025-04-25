@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " aa",
+    "aa "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "minecraft:small_dripleaf",
+    "count": 1
+  }
+}

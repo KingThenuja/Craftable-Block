@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:large_amethyst_bud"
+    },
+    "b": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}

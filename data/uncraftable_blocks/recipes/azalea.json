@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:leaves"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:azalea",
+    "count": 1
+  }
+}

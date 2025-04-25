@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brown_dye"
+    },
+    "b": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "minecraft:podzol",
+    "count": 1
+  }
+}

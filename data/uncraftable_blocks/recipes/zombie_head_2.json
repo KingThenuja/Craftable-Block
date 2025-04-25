@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:green_dye"
+  },
+  "base": {
+    "item": "minecraft:skeleton_skull"
+  },
+  "addition": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "item": "minecraft:zombie_head"
+  }
+}
