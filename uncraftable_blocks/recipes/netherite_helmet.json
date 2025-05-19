@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "cac",
+    "aba",
+    "cac"
+  ],
+  "key": {
+    "a": [
+      "minecraft:netherite_scrap"
+    ],
+    "b": [
+      "minecraft:diamond_helmet"
+    ],
+    "c": [
+      "minecraft:gold_ingot"
+    ]
+  },
+  "result": {
+    "item": "minecraft:netherite_helmet",
+    "count": 1
+  }
+}
